@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quizie...Play with me</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Quizie</h1>
+        <div class="start-screen ">
+            <div class="setting">
+                <label for="num-questions">Choose number of Questions</label>
+                <select name="" id="numOfQuestions">
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                </select>
+            </div>
+            <button class="button start-button">Start quiz</button>
+        </div>
+
+        <div class="app hide">
+             <div class="question-box">
+                <div class="question-header">
+                    Question <span class="current">1</span> <span class="total">/10</span>
+                </div>
+                
+                <div class="question-body">
+                    <div class="question">Question</div>
+                </div>
+            </div>
+
+            <div class="answer-box">
+              <h4>Select answer</h4>
+              <div class="answer-container">
+                <div class="answer">
+                    <span class="text">answer</span>
+                    <span class="checkbox"></span>
+                </div>
+
+                <div class="answer">
+                    <span class="text">answer</span>
+                    <span class="checkbox"></span>
+                </div>
+
+                <div class="answer">
+                    <span class="text">answer</span>
+                    <span class="checkbox"></span>
+                </div>
+
+                <div class="answer">
+                    <span class="text">answer</span>
+                    <span class="checkbox"></span>
+                </div>
+              </div>
+
+              <button class="button next-button">Next</button>
+            </div>
+        </div>
+
+        <div class="end-screen hide">
+            <div class="score">
+                <span class="score-text">Your score:</span>
+                <div>
+                    <span class="final-score">0</span>
+                    <span class="total-score">/10</span>
+                </div>
+            </div>
+            <button class="button restart-button">Restart Quiz</button>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>

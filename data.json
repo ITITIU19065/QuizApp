@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Tỉnh nào rộng nhất Việt Nam?",
+    "answers": ["Thanh Hoá", "Nghệ An", "Tây Nguyên", "Cần Thơ"],
+    "correctAnswer": "Nghệ An"
+  },
+  {
+    "question": "Ai là người sáng lập Facebook?",
+    "answers": ["Mark Zuckerberg", "Bill Gates", "Steve Jobs", "Jeff Bezos"],
+    "correctAnswer": "Mark Zuckerberg"
+  },
+  {
+    "question": "Thủ đô của Nhật Bản là thành phố nào?",
+    "answers": ["Seoul", "Tokyo", "Beijing", "Hanoi"],
+    "correctAnswer": "Tokyo"
+  },
+  {
+    "question": "Ai là người đầu tiên bước chân lên mặt trăng?",
+    "answers": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Nước nào nằm ở châu lục Antarctica?",
+    "answers": ["Australia", "Argentina", "New Zealand", "Nam Phi"],
+    "correctAnswer": "Nam Phi"
+  },
+  {
+    "question": "Diễn viên nào đóng vai Iron Man trong loạt phim Marvel Cinematic Universe?",
+    "answers": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
+    "correctAnswer": "Robert Downey Jr."
+  },
+  {
+    "question": "Ai là tác giả của tiểu thuyết 'Harry Potter'?",
+    "answers": ["J.K. Rowling", "George R.R. Martin", "Stephen King", "Dan Brown"],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "question": "Nước nào có diện tích lớn nhất trên thế giới?",
+    "answers": ["Nga", "Trung Quốc", "Mỹ", "Canada"],
+    "correctAnswer": "Nga"
+  },
+  {
+    "question": "Đỉnh núi cao nhất thế giới là gì?",
+    "answers": ["Everest", "K2", "Kangchenjunga", "Lhotse"],
+    "correctAnswer": "Everest"
+  },
+  {
+    "question": "Quốc gia nào nằm ở cực Đông của thế giới?",
+    "answers": ["Nga", "Canada", "Greenland", "Iceland"],
+    "correctAnswer": "Greenland"
+  }
+]
